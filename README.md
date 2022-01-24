@@ -1,5 +1,5 @@
 hello,
-this project is clone from the url for practicing:
+this project code is make for learning:
 https://techvblogs.com/blog/build-crud-app-with-laravel-and-vuejs
 
 Commmands:
